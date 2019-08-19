@@ -5,6 +5,7 @@
 # # abort on errors
 # set -e
 PUBLIC_PATH=/tictactoe/ yarn build
+rm -rf ./docs
 cp -r ./dist ./docs
 # echo Building. this may take a minute...
 # yarn build
