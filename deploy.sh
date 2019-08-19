@@ -4,7 +4,7 @@
 
 # # abort on errors
 # set -e
-publicPath=/tictactoe yarn build
+BASE_URL=/tictactoe yarn build
 cp -r ./dist ./docs
 # echo Building. this may take a minute...
 # yarn build
