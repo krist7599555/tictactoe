@@ -1,29 +1,3 @@
-# tictactoe
+# tictactoe [DEMO](https://krist7599555.github.io/tictactoe)
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![image](https://user-images.githubusercontent.com/19445033/134080425-ed2f9706-1fcf-4a3c-a987-1ac347a3758b.png)
